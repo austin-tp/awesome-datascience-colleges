@@ -1,6 +1,6 @@
 # awesome-datascience-colleges
 A list of colleges and universities offering degrees in data science.   
-
+Which is very use full for students. 
 # Files
 
 * **data_science_colleges.csv** - The actual list of schools, the list is sorted by COUNTRY (descending) then STATE then SCHOOL
